@@ -28,13 +28,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/68ff4677-8c77-4ff2-a4f2-2567a7756b76' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='blob:http://imgur.com/68ff4677-8c77-4ff2-a4f2-2567a7756b76' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Not fully "prettified". Gets the job done, though.
+
 See it live: TerryThibault.com/codepath
 
 ## License
