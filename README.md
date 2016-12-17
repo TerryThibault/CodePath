@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Not fully "prettified". Gets the job done, though.
+See it live: TerryThibault.com/codepath
 
 ## License
 
